@@ -28,7 +28,7 @@ body{
     height: 60vh;
     border-radius: 35px;
     box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.1);
-    background-image: url(/img/bgImg.png);
+    background-image: url(./img/bgImg.png);
 }
 
 .leftChat{
