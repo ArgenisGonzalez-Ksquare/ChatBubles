@@ -26,7 +26,7 @@ body{
     background-color: #ffffff;
     width: 50%;
     height: 60vh;
-    border-radius: 50px;
+    border-radius: 35px;
     box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.1);
     background-image: url(/img/bgImg.png);
 }
@@ -76,22 +76,14 @@ body{
     height: auto;
     margin-left: 5%;
     padding: 4% 6% 4% 6%;
-    border-radius: 45px;
+    border-radius: 15px;
     box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.1);
 }
 
 .leftTxt > p{
-    font-size: 45pt;
+    font-size: 16pt;
 }
 
-.status{
-    display: inline-flex;
-    font-size: 50pt;
-    justify-content: flex-end;
-    align-items: center;
-    font-size: 40pt;
-    color: #8f998e;
-}
 
 .status > i{
     margin-left: 5%;
@@ -148,19 +140,19 @@ body{
     height: auto;
     margin-right: 5%;
     padding: 4% 6% 4% 6%;
-    border-radius: 45px;
+    border-radius: 15px;
     box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.1);
 }
 
 .rightTxt > p{
-    font-size: 45pt;
+    font-size: 16pt;
 }
 
 .status{
     display: inline-flex;
     justify-content: flex-end;
     align-items: center;
-    font-size: 40pt;
+    font-size: 10pt;
     color: #8f998e;
 }
 
